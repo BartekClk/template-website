@@ -162,7 +162,7 @@
     position: relative;
     display: flex;
     align-items: flex-end;
-    background-image: url("../images/goetel_sucha.jpg");
+    background-image: url("../images/background2.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -765,7 +765,7 @@ iframe {
     position: relative;
     padding: 50px 0;
     margin-top: 20px;
-    background-image: url("../images/vote.jpg");
+    background-image: url("../images/clock.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
